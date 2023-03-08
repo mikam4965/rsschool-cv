@@ -1,7 +1,5 @@
 # Meruyert Kengesbay
 
-===============	
-
 ## Contact information    
 
 Location: Astana, Kazakhstan     
@@ -13,7 +11,7 @@ GitHub: [mikam4965](https://github.com/mikam4965)
 
 ## About me
 
-An intellectually curious and self-motivated computer science graduate with a commitment to and experience of developing innovative and creative software solutions also seeking a meaningful role to begin a career in Information Technology. 
+An intellectually curious and self-motivated computer science graduate with a commitment to experience developing innovative and creative software solutions also seeking a meaningful role to begin a career in Information Technology. 
    
 ---------------	
 
@@ -21,8 +19,8 @@ An intellectually curious and self-motivated computer science graduate with a co
 
 * HTML    
 * CSS    
-* JS(basic knowledge)    
-* React Native, React(basic knowledge)    
+* JS (basic knowledge)    
+* React Native, React (basic knowledge)    
 * Git   
 
 ---------------	
